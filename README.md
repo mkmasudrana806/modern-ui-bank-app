@@ -1,8 +1,48 @@
-# React + Vite
+# Project Title
+HooBanck Modern UI based web wpplication
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo link:
+Access my site at [click here](https://657defe266e83a5e5c2b64d5--preeminent-capybara-5a1764.netlify.app/)
 
-Currently, two official plugins are available:
+## Table of Content:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About The App](#about-the-app)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Approach](#approach)
+- [Status](#status)
+- [Credits](#credits)
+- [License](#license)
+
+## About The App
+[Name of project] is an app that ...
+
+## Screenshots
+
+`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+
+Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+
+## Technologies
+I used `html`, `css`, ...
+
+## Setup
+- download or clone the repository
+- run `npm install`
+- ...
+
+## Approach
+I adopted the `BEM` naming style for my css class names and ...
+
+## Status
+[name of project] is still in progress. `Version 2` will be out soon.
+
+## Credits
+List of contriubutors:
+- [John Doe](johndoe.com)
+- [Beginners guide to BEM](link-goes-here.com)
+
+## License
+
+MIT license @ [author](author.com)
