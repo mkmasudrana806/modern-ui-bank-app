@@ -9,7 +9,7 @@ Access my site at [click here](https://657defe266e83a5e5c2b64d5--preeminent-capy
 - [About The Project](#about-the-Project)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Key_Features](#key-features)
+- [Key Features](#key-features)
 - [Setup](#setup)
 - [Status](#status)
 - [Credits](#credits)
