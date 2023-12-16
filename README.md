@@ -9,12 +9,10 @@ Access my site at [click here](https://657defe266e83a5e5c2b64d5--preeminent-capy
 - [About The Project](#about-the-Project)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Key_Features](#keyfeatures)
+- [Key_Features](#key-features)
 - [Setup](#setup)
-- [Approach](#approach)
 - [Status](#status)
 - [Credits](#credits)
-- [License](#license)
 
 ## About The Project
 HooBank, a Modern UI-based web application crafted to assist developers in building sleek user interfaces using React technology and Tailwind CSS. Our motivation behind this project is to deliver a fully responsive experience, featuring awesome components and a well-organized folder structure.
