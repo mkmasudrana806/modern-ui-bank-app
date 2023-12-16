@@ -5,7 +5,7 @@ import styles from "../style";
 const CTA = () => {
   return (
     <section
-      className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
+      className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} md:flex-row md:justify-between  flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
     >
       <div>
         <h2 className={styles.heading2}>Let's try our service now!</h2>
