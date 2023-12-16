@@ -1,48 +1,69 @@
 # Project Title
-HooBanck Modern UI based web wpplication
+HooBanck, A modern UI based web wpplication
 
-## Demo link:
+## Live link:
 Access my site at [click here](https://657defe266e83a5e5c2b64d5--preeminent-capybara-5a1764.netlify.app/)
 
 ## Table of Content:
 
-- [About The App](#about-the-app)
+- [About The Project](#about-the-Project)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
+- [Key_Features]
 - [Setup](#setup)
 - [Approach](#approach)
 - [Status](#status)
 - [Credits](#credits)
 - [License](#license)
 
-## About The App
-[Name of project] is an app that ...
+## About The Project
+HooBank, a Modern UI-based web application crafted to assist developers in building sleek user interfaces using React technology and Tailwind CSS. Our motivation behind this project is to deliver a fully responsive experience, featuring awesome components and a well-organized folder structure.
+
+HooBank is dedicated to providing a cutting-edge user interface development experience. Whether you're a seasoned developer or just starting, our web app offers a robust foundation for creating modern and responsive layouts.
 
 ## Screenshots
 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+#### Home
+![image](https://github.com/mkmasudrana806/modern-ui-bank-app/assets/86706671/12653ffe-db29-406b-a419-59c5fdf5d22f)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+#### Featured
+![image](https://github.com/mkmasudrana806/modern-ui-bank-app/assets/86706671/5349f02e-58af-40f7-8913-f1ec4119e116)
+
+#### Card Deal
+![image](https://github.com/mkmasudrana806/modern-ui-bank-app/assets/86706671/558fb0f6-5564-4b8c-8713-fb4cf235f22e)
+
+### Testimonials
+![image](https://github.com/mkmasudrana806/modern-ui-bank-app/assets/86706671/7a21f3a2-6ba9-4a68-b128-e6262de92aa1)
+
+#### Footer
+![image](https://github.com/mkmasudrana806/modern-ui-bank-app/assets/86706671/96149b02-96c1-47a3-a276-3205172c8c2e)
+
 
 ## Technologies
-I used `html`, `css`, ...
+I used 'React', 'Tailwind CSS', and raw JavaScript and CSS.
 
+## Key Features
+
+- **Modern UI Components:** HooBank comes equipped with a collection of modern and aesthetically pleasing UI components, ready to be integrated into your projects.
+
+- **Fully Responsive:** The project ensures a seamless experience across various devices and screen sizes, prioritizing responsiveness for optimal user engagement.
+
+- **Tailwind CSS Integration:** Leveraging the power of Tailwind CSS, HooBank simplifies styling and customization, allowing you to create visually stunning interfaces with ease.
+
+- **Structured Folder Architecture:** We believe in clean and organized code. HooBank follows a well-defined folder structure, making it easy to navigate and maintain your projects efficiently.
+
+  
 ## Setup
-- download or clone the repository
-- run `npm install`
-- ...
+To start using HooBank in your project, follow these simple steps:
 
-## Approach
-I adopted the `BEM` naming style for my css class names and ...
+**Note:** Before cloning this project on your computer, ensure bedore you have installed NodeJs and any IDE
+1. Clone the repository: `git clone [repository-url]`
+2. Install dependencies: `npm install`
+3. Explore the components and structure provided in the documentation.
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+[HooBank] is still in progress. `Version 2` will be out soon.
 
 ## Credits
-List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+All credits goest to **JavaScript Mastery**
 
-## License
-
-MIT license @ [author](author.com)
