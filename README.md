@@ -38,7 +38,7 @@ HooBank is dedicated to providing a cutting-edge user interface development expe
 
 
 ## Technologies
-I used 'React', 'Tailwind CSS', and raw JavaScript and CSS.
+I used `React`, `Tailwind CSS`, and raw `JavaScript` and `CSS`.
 
 ## Key Features
 
@@ -62,6 +62,4 @@ To start using HooBank in your project, follow these simple steps:
 ## Status
 [HooBank] is still in progress. `Version 2` will be out soon.
 
-## Credits
-All credits goest to **JavaScript Mastery**
 
